@@ -21,5 +21,5 @@
 * [Fiche Produit](https://beta.gouv.fr/startups/aplus.html)
 * [Videos](videos/README.md)
   * [Administration+ en 3 minutes](videos/webinaire.md)
-* [Conditions Générales d’Utilisation](conditions-generales-dutilisation.md)
+* [Conditions générales d’utilisation](conditions-generales-dutilisation.md)
 
