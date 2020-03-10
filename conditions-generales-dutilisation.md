@@ -8,7 +8,7 @@ description: >-
 
 Les présentes conditions générales d’utilisation visent à réguler les interactions entre les utilisateurs de la plateforme Administration+.
 
-
+**Conditions générales d'utilisations à partir du 11 mars 2020**
 
 ## 1. Le service Administration+
 
