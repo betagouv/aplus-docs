@@ -19,7 +19,6 @@
   * [Voir la liste des demandes du groupe](tutoriels/voir-la-liste-des-demandes-du-groupe.md)
   * [Exporter la liste des demandes du groupe au format CSV](tutoriels/exporter-la-liste-des-demandes-du-groupe-au-format-csv.md)
 * [Fiche Produit](https://beta.gouv.fr/startups/aplus.html)
-* [Videos](videos/README.md)
-  * [Administration+ en 3 minutes](videos/webinaire.md)
+* [Videos](videos.md)
 * [Conditions générales d’utilisation](conditions-generales-dutilisation.md)
 
