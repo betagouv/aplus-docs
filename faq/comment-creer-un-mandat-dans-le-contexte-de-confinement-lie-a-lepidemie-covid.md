@@ -11,9 +11,8 @@ Afin de réaliser une demande sur Administration+ vous devez recueillir l'autori
 ### L’agent d’accueil recueille l’autorisation de l’usager et la formalise à l’écrit :
 
 * Si l’usager est en mesure de rédiger un sms, l’agent lui adressera un sms lui demandant son consentement. L’usager pourra ensuite répondre à ce sms avec une réponse par Oui / Non au SMS.
-* Si l’usager ne sait pas rédiger de sms, l’agent d’accueil lui demande à l’oral et clairement de répondre par oui ou par non.
 * **Est-ce que vous m’autorisez à utiliser vos données personnelles dans le cadre d’une demande sur Administration+ ?**
 * **Est-ce que vous m’assurez sur l’honneur que les informations communiquées sont exactes ?**
 
-Dans les 2 cas, il appartient à l’agent d’accueil d’indiquer à la fin de la demande qu'il atteste avoir recueilli l’autorisation de l'usager par sms /ou au téléphone / tel jour à telle date.
+Dans ce cas, il appartient à l’agent d’accueil d’indiquer à la fin de la demande qu'il atteste avoir recueilli l’autorisation de l'usager par sms, tel jour à telle date.
 
