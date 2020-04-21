@@ -2,6 +2,7 @@
 
 * [Accueil](README.md)
 * [FAQ](faq/README.md)
+  * [Comment créer un mandat dans le contexte de confinement lié à l’épidémie COVID ?](faq/comment-creer-un-mandat-dans-le-contexte-de-confinement-lie-a-lepidemie-covid.md)
   * [Comment créer un compte sur A+ ?](faq/comment-creer-un-compte-sur-a+.md)
   * [Je n'arrive pas à me connecter, pouvez-vous m'aider ?](faq/je-narrive-pas-a-me-connecter-pouvez-vous-maider.md)
   * [Comment modifier mon adresse mail ?](faq/comment-modifier-mon-adresse-mail.md)
