@@ -1,5 +1,7 @@
 # Comment créer un mandat dans le contexte de confinement lié à l’épidémie COVID ?
 
+## Recueillir l'autorisation de l'usager par SMS
+
 Afin de réaliser une demande sur Administration+ vous devez recueillir l'autorisation de la personne concernée. Dans ce contexte de confinement, l’agent d’accueil peut recueillir l’autorisation de l’usager par téléphone en suivant la procédure décrite ci-après.
 
 * L’usager contacte l’agent d’accueil par téléphone et lui expose son problème administratif.
