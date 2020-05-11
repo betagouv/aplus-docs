@@ -6,11 +6,9 @@ description: >-
 
 # Est-ce que je peux déposer une demande dans un autre département ?
 
-En tant qu'aidant, vous pouvez demander à être actif dans un autre département que celui de votre structure de rattachement, pour pouvoir déposer une demande auprès d'une administration qui est basée dans un autre département, celui de l'usager que vous aidez.   
-  
-Par exemple, si vous êtes un agent d'accueil dans une structure France Services de l'Ain, et que vous recevez un usager résidant en Saône-et-Loire, vous pourrez réaliser une demande au Pôle Emploi de Mâcon, duquel dépend cet usager.   
-  
-Pour pouvoir déposer des demandes sur plusieurs départements, il suffit d'en faire la demande sur support@aplus.beta.gouv.fr ou par téléphone au 01 84 80 88 12. 
+Certains agents France Services nous ont fait part de leur souhait de pouvoir déposer des demandes dans un autre département que le leur. Plusieurs options sont en ce moment à l'étude, en espérant pouvoir vous proposer une solution rapidement ! 
+
+ 
 
 
 
