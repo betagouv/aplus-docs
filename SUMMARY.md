@@ -4,7 +4,7 @@
 * [FAQ](faq/README.md)
   * [Comment créer un compte sur A+ ?](faq/comment-creer-un-compte-sur-a+.md)
   * [Je n'arrive pas à me connecter, pouvez-vous m'aider ?](faq/je-narrive-pas-a-me-connecter-pouvez-vous-maider.md)
-  * [Comment modifier mon adresse mail ?](faq/comment-modifier-mon-adresse-mail.md)
+  * [Comment modifier un utilisateur/une adresse mail?](faq/comment-modifier-mon-adresse-mail.md)
   * [Pourquoi ne plus utiliser le navigateur Internet explorer de Microsoft ?](faq/pourquoi-ne-plus-utiliser-le-navigateur-internet-explorer-de-microsoft.md)
   * [Que dois-je faire/que-se-passe-t-il si je m'absente ?](faq/que-dois-je-faire-que-se-passe-t-il-si-je-mabsente.md)
   * [Puis-je être instructeur dans plusieurs départements, ou aidant dans plusieurs structures ?](faq/puis-je-etre-instructeur-dans-plusieurs-departements-ou-aidant-dans-plusieurs-structures.md)
