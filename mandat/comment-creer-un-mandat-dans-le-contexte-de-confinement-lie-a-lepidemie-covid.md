@@ -1,21 +1,42 @@
-# Comment créer un mandat à distance dans le contexte de confinement lié à l’épidémie COVID ?
+---
+description: >-
+  Dans le contexte de la loi d'état d'urgence sanitaire, Administration+ offre
+  la possibilité de recueillir le consentement des usagers à distance, par SMS,
+  directement via l'application.
+---
 
-## Recueillir l'autorisation de l'usager par SMS
+# Comment créer un mandat par SMS dans le cadre de la loi d'état d'urgence sanitaire \(avril 2021\)?
 
-Afin de réaliser une demande sur Administration+ vous devez recueillir l'autorisation de la personne concernée. Dans ce contexte de confinement, l’agent d’accueil peut recueillir l’autorisation de l’usager par téléphone en suivant la procédure décrite ci-après.
+Afin de réaliser une demande sur Administration+ vous devez recueillir l'autorisation de la personne concernée.   
+En plus de la procédure classique du mandat "papier", l’agent d’accueil a la possibilité de recueillir l’autorisation de l’usager par SMS, directement dans l'application, en suivant la procédure décrite ci-après.
 
-* L’usager contacte l’agent d’accueil par téléphone et lui expose son problème administratif.
-* L’agent d’accueil recueille tous les éléments d’information relatifs à l’identité de l’usager avec des données permettant d’éviter les homonymies, en lui demandant obligatoirement de lui communiquer son ou ses numéros de téléphone.
-* L’agent d’accueil rappelle l’usager sur l’un des numéros pour vérification. Cela lui permet de s’assurer de la traçabilité des appels.
+## 1/ Vérification de l'identité et du numéro de téléphone de l'usager
 
-**Pour l’instant il est recommandé d’effectuer cette vérification pour tous les appels si l’usager n’est pas connu du service \(notamment pour les appels masqués\).**
+Avant de recourir à cette forme de mandat, il faut s'assurer que l'usager dispose d'un téléphone portable et sait recevoir et envoyer des SMS.
 
-### L’agent d’accueil recueille l’autorisation de l’usager et la formalise à l’écrit :
+Ainsi, si un usager contacte l’agent d’accueil par téléphone pour lui exposer son problème administratif : 
 
-* Si l’usager est en mesure de rédiger un sms, l’agent lui adressera un sms lui demandant son consentement. L’usager pourra ensuite répondre à ce sms avec une réponse par Oui / Non au SMS.
+* l’agent d’accueil recueille tous les éléments d’information relatifs à l’identité de l’usager \(nom, prénom, date et lieu de naissance\) avec des données permettant d’éviter les homonymies \(par exemple un numéro de sécurité social\).  
+* l'agent recueille obligatoirement le numéro de téléphone mobile de l'usager. 
+* l’agent d’accueil rappelle l’usager sur ce numéro pour vérification \(la personne au bout du fil est bien celle qui va répondre au SMS\). 
 
-1. **Est-ce que vous m’autorisez à utiliser vos données personnelles dans le cadre d’une demande sur Administration+ ?**
-2. **Est-ce que vous m’assurez sur l’honneur que les informations communiquées sont exactes ?**
+**Il est recommandé d’effectuer cette vérification pour tous les appels si l’usager n’est pas connu du service \(notamment pour les appels masqués\).**
 
-Dans ce cas, il appartient à l’agent d’accueil d’indiquer à la fin de la demande qu'il atteste avoir recueilli l’autorisation de l'usager par sms, tel jour à telle date.
+###  2/ L'agent envoie et reçoit le SMS directement dans l'outil Administration+. 
+
+* à l'aide de la fonctionnalité SMS intégrée à Administration+, l’agent adresse un SMS à l'usager pour lui demander son consentement. Parallèlement, un email est envoyé à l'agent confirmant l'envoi de ce SMS.
+
+![L&apos;agent envoie le SMS directement &#xE0; partir de l&apos;outil Administration+](../.gitbook/assets/image%20%2814%29.png)
+
+Voici le texte qui est envoyé à l'usager : 
+
+"En répondant OUI, vous assurez sur l'honneur que les informmations communiquée \(Nom, Prénom, DN\) sont exactes et vous autorisez \(Nom de l'agent\), à utiliser vos données personnelles dans le cadre d''une demande et pour la durée d'instruction de celle-ci. Conforméement aux conditions générales d'utilisation de la plateforme Administration+."
+
+* L'usager répond OUI, et l'agent est notifié par email. 
+
+![La preuve du consentement re&#xE7;ue par SMS directement dans l&apos;outil Administration+](../.gitbook/assets/image%20%2812%29.png)
+
+Avant de pouvoir envoyer la demande, il faudra cocher la case attestant avoir recueilli l’autorisation de l'usager par sms, tel jour à telle date.
+
+![Vous pouvez maintenant cliquer sur &quot;envoyer ma demande&quot;](../.gitbook/assets/image%20%2813%29.png)
 
