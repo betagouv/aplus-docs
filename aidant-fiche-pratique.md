@@ -13,7 +13,7 @@ description: >-
 
 #### ❗ Attention : je peux cliquer sur ce lien pendant 30 minutes. Au-delà, je devrai demander un nouveau lien \(étape 1\)
 
-#### ℹ  **À noter : quand je suis notifié d’une nouvelle demande par message,  il est possible que je doive m’identifier, si ce n’est pas encore fait.** 
+#### ℹ  À noter : quand je suis notifié d’une nouvelle demande par message,  il est possible que je doive m’identifier, si ce n’est pas encore fait.
 
 ## **Je veux créer une nouvelle demande**
 
@@ -31,12 +31,11 @@ description: >-
 
 * Je peux continuer le dialogue avec les référents opérateurs jusqu’à la résolution du blocage. Je serai notifié par mail.   
 * Dès que le blocage est résolu, **je clos** la demande et répond anonymement au sondage de satisfaction.  
-* Je peux également inviter un modérateur de l’équipe Administration+ en cas de problème de dialogue.
+* Je peux également inviter un modérateur de l’équipe Administration+ en cas de problème de dialogue. ****
 
-
-
-* **si c’est mon ordinateur individuel** : je peux rester connecté. La plateforme me déconnectera automatiquement dans 30 jours.  
-* **si c’est un ordinateur partagé** : je dois me déconnecter en cliquant sur le bouton en haut à droite.
+  
+ ****ℹ **si c’est mon ordinateur individuel** : je peux rester connecté. La plateforme me déconnectera automatiquement dans 30 jours.   
+ℹ**si c’est un ordinateur partagé** : je dois me déconnecter en cliquant sur le bouton en haut à droite.
 
 \*\*\*\*
 
