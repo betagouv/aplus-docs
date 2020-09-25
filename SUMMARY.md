@@ -25,4 +25,5 @@
   * [Exporter la liste des demandes du groupe au format CSV](tutoriels/exporter-la-liste-des-demandes-du-groupe-au-format-csv.md)
 * [Videos](videos.md)
 * [Conditions générales d’utilisation](conditions-generales-dutilisation.md)
+* [Aidant : fiche pratique](aidant-fiche-pratique.md)
 
