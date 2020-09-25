@@ -8,7 +8,7 @@ description: >-
 
 ## **Pour me connecter**
 
-1. J’entre mon adresse mail professionnelle sur [https://aplus.beta.gouv.fr/login](https://aplus.beta.gouv.fr/login) .  
+1. J’entre mon adresse mail professionnelle sur [https://aplus.beta.gouv.fr/login](https://aplus.beta.gouv.fr/login) 
 2. Je consulte ma boîte de réception où j’ai reçu un nouveau message : il s’agit de mon lien de connexion personnel à la plateforme. Je clique sur ce lien.
 
 #### ❗ Attention : je peux cliquer sur ce lien pendant 30 minutes. Au-delà, je devrai demander un nouveau lien \(étape 1\)
