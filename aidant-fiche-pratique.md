@@ -24,8 +24,9 @@ description: >-
    * Les champs sont libres. Par exemple, je peux entrer uniquement une année pour la date de naissance.
    * Je peux ajouter des éléments grâce au menu déroulant “autres”. 
 5. Je décris le blocage constaté en précisant le problème et le caractère urgent de ma demande. 
-6.  **Je recueille l’autorisation de l’usager soit par mandat signé soit par** [**mandat SMS**](https://docs.aplus.beta.gouv.fr/mandat/comment-creer-un-mandat-dans-le-contexte-de-confinement-lie-a-lepidemie-covid) **.**   
-7. Je clique sur “envoyer ma demande” : elle est transmise automatiquement aux référents opérateurs des organismes sélectionnés.
+6. J'invite des collègues à la demande _\(ils pourront ainsi en assurer le suivi en cas d'absence\)_ 
+7.  **Je recueille l’autorisation de l’usager soit par mandat signé soit par** [**mandat SMS**](https://docs.aplus.beta.gouv.fr/mandat/comment-creer-un-mandat-dans-le-contexte-de-confinement-lie-a-lepidemie-covid) **.**   
+8. Je clique sur “envoyer ma demande” : elle est transmise automatiquement aux référents opérateurs des organismes sélectionnés.
 
 ## **Je fais le suivi de mes dossiers**
 
