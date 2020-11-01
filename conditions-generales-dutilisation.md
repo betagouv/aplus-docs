@@ -61,7 +61,7 @@ Ce sont les membres de l’équipe Administration+ qui :
 
 À noter : Ils n’ont pas accès au contenu des demandes conformément au _Règlement général sur la protection des données_ \(_RGPD_\).
 
-Seuls 2 membres de l'équipe, en leur qualité "d’experts", peuvent être invités par tout membre de la communauté sur une demande. Ils sont également automatiquement saisis lorsque le délai de réponse est dépassé \(_cf paragraphe 3.1_\). Ils n’ont pas accès aux fichiers téléversés sur la demande.
+Seuls 3 membres de l'équipe, en leur qualité "d’experts", peuvent être invités par tout membre de la communauté sur une demande. Ils sont également automatiquement saisis lorsque le délai de réponse est dépassé \(_cf paragraphe 3.1_\). Ils n’ont pas accès aux fichiers téléversés sur la demande.
 
 #### **1.3.5 Les observateurs :**
 
