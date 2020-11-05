@@ -8,7 +8,7 @@ description: >-
 # Comment créer un mandat par SMS dans le cadre de la loi d'état d'urgence sanitaire \(avril 2021\)?
 
 Afin de réaliser une demande sur Administration+ vous devez recueillir l'autorisation de la personne concernée.   
-En plus de la procédure classique du mandat "papier", l’agent d’accueil a la possibilité de recueillir l’autorisation de l’usager par SMS, directement dans l'application, en suivant la procédure décrite ci-après.
+À défaut du mandat "papier" classique, l’agent d’accueil a la possibilité de recueillir l’autorisation de l’usager par SMS, directement dans l'application, en suivant la procédure décrite ci-après.
 
 ## 1/ Vérification de l'identité et du numéro de téléphone de l'usager
 
@@ -30,7 +30,7 @@ Ainsi, si un usager contacte l’agent d’accueil par téléphone pour lui expo
 
 Voici le texte qui est envoyé à l'usager : 
 
-"En répondant OUI, vous assurez sur l'honneur que les informmations communiquée \(Nom, Prénom, DN\) sont exactes et vous autorisez \(Nom de l'agent\), à utiliser vos données personnelles dans le cadre d''une demande et pour la durée d'instruction de celle-ci. Conforméement aux conditions générales d'utilisation de la plateforme Administration+."
+"En répondant OUI, vous assurez sur l'honneur que les informations communiquée \(Nom, Prénom, DN\) sont exactes et vous autorisez \(Nom de l'agent\), à utiliser vos données personnelles dans le cadre d''une demande et pour la durée d'instruction de celle-ci. Conformément aux conditions générales d'utilisation de la plateforme Administration+."
 
 * L'usager répond OUI, et l'agent est notifié par email. 
 
