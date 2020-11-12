@@ -1,6 +1,6 @@
 ---
 description: >-
-  Sur Administration+, il existe plusieurs types d'utilisateurs.Voici
+  Sur Administration+, il existe plusieurs types d'utilisateurs. Voici
   l'explication des actions possibles pour chacun des rôles.
 ---
 
