@@ -100,7 +100,7 @@ Lorsqu’un utilisateur quitte ses fonctions, il incombe au responsable de group
 
 **1.4.5 Ajout de fichiers à la demande :**
 
-Tous les fichiers téléversés sur la demande sont supprimés dans un délai de 7 jours. Pour des raisons de sécurité, les fichiers n’ont pas de copie de sauvegarde et ne peuvent pas être restaurés en cas de panne du service.
+Tous les fichiers téléversés sur la demande sont supprimés dans un délai de 15 jours. Pour des raisons de sécurité, les fichiers n’ont pas de copie de sauvegarde et ne peuvent pas être restaurés en cas de panne du service.
 
 
 
