@@ -1,4 +1,4 @@
-# Videos
+# Video de démarrage rapide
 
 ## Administration+ : Démarrage rapide
 

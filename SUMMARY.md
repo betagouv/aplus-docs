@@ -23,7 +23,7 @@
   * [Ajouter un utilisateur](tutoriels/ajouter-un-utilisateur.md)
   * [Voir la liste des demandes du groupe](tutoriels/voir-la-liste-des-demandes-du-groupe.md)
   * [Exporter la liste des demandes du groupe au format CSV](tutoriels/exporter-la-liste-des-demandes-du-groupe-au-format-csv.md)
-* [Videos](videos.md)
+* [Video de démarrage rapide](videos.md)
 * [Conditions générales d’utilisation](conditions-generales-dutilisation.md)
 * [Aidant : fiche pratique](aidant-fiche-pratique.md)
 
