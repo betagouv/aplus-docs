@@ -12,5 +12,3 @@ description: Bienvenue sur la documentation d'Administration+
 
 E-mail : [**support@aplus.beta.gouv.fr**](mailto:support@aplus.beta.gouv.fr)\*\*\*\*
 
-Hotline : **01 84 80 88 12** , du lundi au vendredi de 9h à 17h 
-
