@@ -33,7 +33,7 @@ _cliquer sur le nom d’un groupe permet par ailleurs au responsable d’accéde
 Chacun pourra toujours éditer ses informations par la suite via sa page de profil.
 
 {% hint style="info" %}
-Scrollez \(faites défiler\) à droite pour configurer un éventuel[ compte partagé](https://docs.aplus.beta.gouv.fr/faq/peut-on-partager-un-compte-sur-administration+) par plusieurs agents
+Scrollez \(faites défiler\) à droite pour configurer un éventuel[ compte partagé](https://docs.aplus.beta.gouv.fr/faq/peut-on-partager-un-compte-sur-administration+) par plusieurs agents.
 {% endhint %}
 
 ![Vue Cr&#xE9;ation de comptes](../.gitbook/assets/upload_6619e156c7b64a17c5cef1f100a06078.png)
