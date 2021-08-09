@@ -18,8 +18,10 @@ La liste de vos groupes et utilisateurs par groupe s'affiche :
 
 ![Vue Mes groupes](../.gitbook/assets/upload_735c6942a29a5f0956fef9afbcae0268.png)
 
+En plus des fonctions communes à tous les utilisateurs de désactivation de compte dans le groupe et d'ajout au groupe de membres existants dans Administration+, **le responsable peut créer de nouveaux comptes à partir de cette vue.**
+
 {% hint style="info" %}
-_cliquer sur le nom d’un groupe permet par ailleurs au responsable d’accéder à la page dédiée où nom, **description succincte et description détaillée** du groupe sont éditables_
+_cliquer sur le nom d’un groupe permet par ailleurs au responsable d’accéder à la page dédiée où nom, **description succincte et description détaillée** du groupe sont éditables._
 {% endhint %}
 
 ### 2- Sélectionner le groupe concerné, renseigner **le nombre de comptes à y créer** et cliquer sur le bouton : CRÉER DES COMPTES DANS CE GROUPE
