@@ -12,13 +12,13 @@ description: >-
 
 L'aidant peut :
 
-* créer une demande;
-* joindre des pièces à une demande à laquelle il participe;
-* voir la liste des demandes qu'il a fait;
-* inviter un collègue "aidant" sur une demande;
-* ajouter des informations supplémentaires à une demande qu'il a crée;
-* recevoir une notification par email en cas de réponse à une demande;
-* clôturer une demande qu'il a initié.
+* créer une demande ;
+* joindre des pièces à une demande à laquelle il participe ;
+* voir la liste des demandes qu'il a faites ;
+* inviter un collègue "aidant" sur une demande ;
+* ajouter des informations supplémentaires à une demande qu'il a créée ;
+* recevoir une notification par email en cas de réponse à une demande ;
+* clôturer une demande qu'il a initiée.
 
 ## Instructeur
 
