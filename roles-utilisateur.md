@@ -26,10 +26,10 @@ L'aidant peut :
 
 L'instructeur peut :
 
-* voir la liste des demandes auxquelles il participe;
-* accéder aux demandes et pièces jointes des demandes qui le concerne;
-* recevoir une notification par email en cas de nouvelle demande ou réponse sur une demande;
-* répondre à une demande sur laquelle il a été invité;
+* voir la liste des demandes auxquelles il participe ;
+* accéder aux demandes et pièces jointes des demandes qui le concerne ;
+* recevoir une notification par email en cas de nouvelle demande ou réponse sur une demande ;
+* répondre à une demande sur laquelle il a été invité ;
 * inviter un autre organisme instructeur sur une demande.
 
 ## Responsable de groupe
@@ -38,11 +38,11 @@ L'instructeur peut :
 
 Le responsable de groupe peut :
 
-* v[oir les utilisateurs du groupe où il a été invité](tutoriels/voir-les-utilisateurs-dun-groupe.md);
-* a[jouter un utilisateur responsable et/ou aidant et/ou instructeur](tutoriels/ajouter-un-utilisateur.md);
-* voir les statistiques d'usage du groupe;
-* [voir la liste des demandes du groupe](tutoriels/voir-la-liste-des-demandes-du-groupe.md);
-* exporter la liste des utilisateurs du groupe au format CSV;
+* v[oir les utilisateurs du groupe où il a été invité](tutoriels/voir-les-utilisateurs-dun-groupe.md) ;
+* a[jouter un utilisateur responsable et/ou aidant et/ou instructeur](tutoriels/ajouter-un-utilisateur.md) ;
+* voir les statistiques d'usage du groupe ;
+* [voir la liste des demandes du groupe](tutoriels/voir-la-liste-des-demandes-du-groupe.md) ;
+* exporter la liste des utilisateurs du groupe au format CSV ;
 * [exporter la liste des demandes du groupe au format CSV \(sans données personnelles des usagers\).](tutoriels/exporter-la-liste-des-demandes-du-groupe-au-format-csv.md)
 
 Il ne peut pas : 
@@ -55,14 +55,14 @@ Il ne peut pas :
 
 L'expert peut :
 
-* être automatiquement invité sur une demande si aucune première réponse n'a été apportée au bout de 4 jours;
-* être automatiquement invité au bout de 15 jours sans nouvelle réponse sur une demande ouverte;
-* participer à une demande sur laquelle il a été invité;
+* être automatiquement invité sur une demande si aucune première réponse n'a été apportée au bout de 4 jours ;
+* être automatiquement invité au bout de 15 jours sans nouvelle réponse sur une demande ouverte ;
+* participer à une demande sur laquelle il a été invité ;
 * inviter un autre organisme instructeur sur une demande à laquelle il a été invité.
 
 Il ne peut pas : 
 
-* voir les pièces-jointes;
+* voir les pièces-jointes ;
 * accéder à une demande qui a été clôturée.
 
 ##  
