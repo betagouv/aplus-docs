@@ -14,9 +14,9 @@ Les présentes conditions générales d’utilisation visent à réguler les int
 
 1.1. **Objet du service** : mettre en relation des agents publics ou chargés d’une mission de service public via l’utilisation d’une plateforme numérique pour :
 
-* résoudre des blocages administratifs complexes et/ou urgents des usagers;
-* garantir l’accessibilité du service public aux personnes en situation de vulnérabilité ou  d’urgence;
-* participer à la lutte contre le non-recours aux droits; 
+* résoudre des blocages administratifs complexes et/ou urgents des usagers ;
+* garantir l’accessibilité du service public aux personnes en situation de vulnérabilité ou d’urgence ;
+* participer à la lutte contre le non-recours aux droits ; 
 * faciliter les interactions entre les acteurs publics d’un territoire.
 
 1.2 **L’usage** du service est réservé aux cas de blocages administratifs complexes et d’urgence sociale. 
@@ -33,7 +33,7 @@ Il s’agit des agents d’accueil France Services, des travailleurs sociaux pub
 
 #### 1.3.2 Les instructeurs Administration+ \(opérateurs des administrations partenaires\) : 
 
-Ce sont les agents publics ou chargés d’une mission de service public, en poste dans des organismes de sécurité sociale ou des administrations déconcentrées de l’Etat ou des administrations décentralisées. 
+Ce sont les agents publics ou chargés d’une mission de service public, en poste dans des organismes de sécurité sociale ou des administrations déconcentrées de l’État ou des administrations décentralisées. 
 
 Ils ont pour mission de rechercher une réponse à une situation de blocage administratif complexe ou à une urgence sociale lorsqu’ils sont saisis par un aidant Administration+.
 
@@ -61,7 +61,7 @@ Ce sont les membres de l’équipe Administration+ qui :
 
 À noter : Ils n’ont pas accès au contenu des demandes conformément au _Règlement général sur la protection des données_ \(_RGPD_\).
 
-Seuls 3 membres de l'équipe, en leur qualité "d’experts", peuvent être invités par tout membre de la communauté sur une demande. Ils sont également automatiquement saisis lorsque le délai de réponse est dépassé \(_cf paragraphe 3.1_\). Ils n’ont pas accès aux fichiers téléversés sur la demande.
+Seuls 3 membres de l'équipe, en leur qualité "d’experts", peuvent être invités par tout membre de la communauté sur une demande. Ils sont également automatiquement saisis lorsque le délai de réponse est dépassé \(cf. _paragraphe 3.1_\). Ils n’ont pas accès aux fichiers téléversés sur la demande.
 
 #### **1.3.5 Les observateurs :**
 
@@ -69,7 +69,7 @@ Ce sont les pilotes et coordonnateurs d’administrations partenaires qui associ
 
 * La direction interministérielle de la transformation publique \(DITP\) pour ses programmes carte blanche et service-public +.
 * L’agence nationale de cohésion des territoires \(ANCT\) et la caisse des dépôts et consignation à travers la banque des territoires pour le programme France services.
-* Les coordonateurs en préfecture, chargés de mission à la politique de la ville ou au développement du territoire, les coordonateurs nationaux d’organismes et d’administrations centrales ou décentralisées.
+* Les coordonnateurs en préfecture, chargés de mission à la politique de la ville ou au développement du territoire, les coordonnateurs nationaux d’organismes et d’administrations centrales ou décentralisées.
 
 1.4 Fonctionnement général du service
 
@@ -108,7 +108,7 @@ Tous les fichiers téléversés sur la demande sont supprimés dans un délai de
 
 2.1 Cas d’utilisation de l’outil par l’aidant :
 
-Administration+ est un canal d’information complémentaire des outils professionnels existants. Il apporte une réponse de dernier recours dans les situations d’urgence sociale ou lorsque tous les dispositifs habituels connue de l’aidant Administration+ ont été épuisés \(guichet, mail, téléphone, sites professionnels…\).
+Administration+ est un canal d’information complémentaire des outils professionnels existants. Il apporte une réponse de dernier recours dans les situations d’urgence sociale ou lorsque tous les dispositifs habituels connus de l’aidant Administration+ ont été épuisés \(guichet, mail, téléphone, sites professionnels…\).
 
 2.2 Consentement de l’usager : 
 
