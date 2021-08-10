@@ -21,7 +21,7 @@ La liste de vos groupes et utilisateurs par groupe s'affiche :
 En plus des fonctions communes à tous les utilisateurs de désactivation de compte dans le groupe et d'ajout au groupe de membres existants dans Administration+, **le responsable peut créer de nouveaux comptes à partir de cette vue.**
 
 {% hint style="info" %}
-_cliquer sur le nom d’un groupe permet par ailleurs au responsable d’accéder à la page dédiée où nom, **description succincte et description détaillée** du groupe sont éditables._
+_cliquer sur le nom d’un groupe permet par ailleurs au responsable d’accéder à la page dédiée où **la** **description succincte et la description détaillée** du groupe sont éditables._
 {% endhint %}
 
 ### 2- Sélectionner le groupe concerné, renseigner **le nombre de comptes à y créer** et cliquer sur le bouton : CRÉER DES COMPTES DANS CE GROUPE
